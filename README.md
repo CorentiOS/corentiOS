@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 # Corentin Medina—@CorentiOS
 Welcome visitor ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
+<img align="right" alt="PNG" src="https://github.com/corentios/corentios/blob/main/animoji.PNG?raw=true" />
+
+
 I'm Corentin, a Mobile Junior Developper 👨‍💻 from France. I'm student at [EPSI](https://www.epsi.fr/) in the fourth year.  
 Beside's programming I enjoy traveling ✈️ and photography 📸
 
