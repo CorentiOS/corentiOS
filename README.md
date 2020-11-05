@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **CorentiOS/corentiOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Corentin Medina—@CorentiOS
+Welcome visitor ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+I'm Corentin, a Mobile Junior Developper 👨‍💻 from France. I'm student at [EPSI](https://www.epsi.fr/) in the fourth year.  
+Beside's programming I enjoy traveling ✈️ and photography 📸
+
+## About Personal Stuffs:
+* 📚 I'm currently learning mobile development, specifically Swift language 
+* 👨‍💻 I like to contribute projects and create something
+* 📝 [My Portfolio](https://www.corentinmedina.fr/)
