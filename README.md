@@ -29,3 +29,7 @@ Beside's programming I enjoy traveling ✈️ and photography 📸
 * 📚 I'm currently learning mobile development, specifically Swift language 
 * 👨‍💻 I like to contribute projects and create something
 * 📝 [My Portfolio](https://www.corentinmedina.fr/)
+
+
+
+*Learning to become better*
