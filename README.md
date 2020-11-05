@@ -22,7 +22,7 @@ Welcome visitor ! <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 <img align="right" alt="PNG" src="https://github.com/corentios/corentios/blob/main/animoji.PNG?raw=true" />
 
 
-I'm Corentin, a Mobile Junior Developper 👨‍💻 from France. I'm student at [EPSI](https://www.epsi.fr/) in the fourth year.  
+I'm Corentin, a Mobile Junior Developer 👨‍💻 from France. I'm student at [EPSI](https://www.epsi.fr/) in the fourth year.  
 Beside's programming I enjoy traveling ✈️ and photography 📸
 
 ## About Personal Stuffs:
