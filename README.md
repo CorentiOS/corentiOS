@@ -35,3 +35,10 @@ Beside's programming I enjoy traveling ✈️ and photography 📸.
   
 #
 \- *Learning to become better*
+
+<br>
+<br>
+<img align="left" alt="quiprr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=corentios&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react" />
+<img align="left" alt"quiprr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corentios&include_all_commits=true&layout=compact&theme=react&hide_border=true&count_private=true" />
+
+
