@@ -39,6 +39,6 @@ Beside's programming I enjoy traveling ✈️ and photography 📸.
 <br>
 <br>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=corentios&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react" width="445"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corentios&include_all_commits=true&layout=compact&theme=react&hide_border=true&count_private=true" height="176">
 </p>
