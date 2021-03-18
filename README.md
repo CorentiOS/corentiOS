@@ -22,7 +22,7 @@ Welcome visitor ! <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 <img align="right" alt="PNG" src="https://github.com/corentios/corentios/blob/main/animoji.PNG?raw=true" />
 
 
-I'm Corentin, a Mobile Junior Developer 👨‍💻 from France. I'm student in 4th year.  
+I'm Corentin, a Mobile Junior Developer 👨‍💻 from France. I'm student in CS 4th year.  
 Working at [CGI](https://www.cgi.fr/fr-fr) as a Mobile Developer.  
 Beside's programming I enjoy traveling ✈️ and photography 📸.
 
