@@ -45,6 +45,9 @@ Beside's programming I enjoy traveling ✈️ and photography 📸.
 
   
 #
+## Contact
+📬 : hello@corentinmedina.fr
+#
 \- *Learning to become better*
 
 <br>
