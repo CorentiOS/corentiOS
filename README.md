@@ -31,8 +31,10 @@ Beside's programming I enjoy traveling ✈️ and photography 📸.
 * 📚 I'm currently learning mobile development, specifically Swift language 
 * 👨‍💻 I like to contribute projects and create something
 * 📝 Tech enthusiast
-  
-  
+
+
+* 📬 hello@corentinmedina.fr
+
   
 ## Contribution
 
@@ -45,9 +47,7 @@ Beside's programming I enjoy traveling ✈️ and photography 📸.
 
   
 #
-## Contact
-📬 : hello@corentinmedina.fr
-#
+
 \- *Learning to become better*
 
 <br>
