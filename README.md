@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Elfyr—@corentios
+# EIfyr—@corentios
 Hello there, welcome to my page! ![wave (2)](https://user-images.githubusercontent.com/43886135/172446723-3a2d6f62-7ba4-46c6-8175-53c10381603a.gif)
 
 
@@ -50,7 +50,7 @@ I'm Corentin, a Junior iOS Developer 👨‍💻 based in France. I recently gra
 
 
 ###
-📬 Feel free to contact me at contact@elfyr.dev
+📬 Feel free to contact me
 
   
 ## Contribution
