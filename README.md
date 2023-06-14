@@ -50,7 +50,7 @@ I'm Corentin, a Junior iOS Developer 👨‍💻 based in France. I recently gra
 
 
 ###
-📬 Feel free to contact me
+📬 Feel free to contact me at contact@e+"lf"yr.dev
 
   
 ## Contribution
