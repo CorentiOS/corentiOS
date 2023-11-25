@@ -27,9 +27,9 @@ I'm Corentin, a Junior iOS Developer 👨‍💻 based in France. I recently gra
 
 
 ## 🔭 About Personal Stuffs:
-* 📚 I'm currently learning mobile development, specifically the Swift language, and have also started creating tweaks. If you have any ideas, feel free to get in touch with me!
-* 👨‍💻 I enjoy contributing to projects and building something meaningful.
-* 📝 I'm a tech enthusiast who is always eager to explore new technologies and trends.
+* 📚 Currently immersing myself in mobile development, with a focus on mastering the Swift language. I've also ventured into creating tweaks. If you have any ideas, feel free to reach out!
+* 👨‍💻 Passionate about contributing to projects, crafting meaningful solutions, and especially enjoy translating projects to bridge language gaps.
+* 📝 A tech enthusiast always eager to explore new technologies and stay ahead of trends.
 
 
 
