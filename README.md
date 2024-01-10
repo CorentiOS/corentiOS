@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://komarev.com/ghpvc/?username=corentios&color=dc143c)
 
 # EIfyr—@corentios
 Hello there, welcome to my page! ![wave (2)](https://user-images.githubusercontent.com/43886135/172446723-3a2d6f62-7ba4-46c6-8175-53c10381603a.gif)
 
 
 <img align="right" alt="PNG" src="https://github.com/corentios/corentios/blob/main/animoji.PNG?raw=true" />
+
 
 
 I'm Corentin, an iOS Developer 👨‍💻 based in France. I recently graduated from a master's degree in Computer Science and have been pursuing my passion for iOS development ever since. When I'm not coding, I love to travel ✈️ and take photographs 📸.
@@ -43,7 +44,7 @@ I'm Corentin, an iOS Developer 👨‍💻 based in France. I recently graduated
 
 
 ## ⚡ Fun facts:
-
+![](https://komarev.com/ghpvc/?username=corentios&color=dc143c)
 * I have visited 7 different countries in 2 months
 * I'm a big fan of science fiction movies
 * Sometimes, I play kalimba
@@ -67,6 +68,7 @@ I'm Corentin, an iOS Developer 👨‍💻 based in France. I recently graduated
 
 <br>
 <br>
+  
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corentios&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react" width="445"/>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=corentios&include_all_commits=true&layout=compact&theme=react&hide_border=true&count_private=true" height="176">
