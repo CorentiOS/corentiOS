@@ -23,7 +23,7 @@ Hello there, welcome to my page! ![wave (2)](https://user-images.githubuserconte
 <img align="right" alt="PNG" src="https://github.com/corentios/corentios/blob/main/animoji.PNG?raw=true" />
 
 
-I'm Corentin, a Junior iOS Developer 👨‍💻 based in France. I recently graduated from a master's degree in Computer Science and have been pursuing my passion for iOS development ever since. When I'm not coding, I love to travel ✈️ and take photographs 📸.
+I'm Corentin, an iOS Developer 👨‍💻 based in France. I recently graduated from a master's degree in Computer Science and have been pursuing my passion for iOS development ever since. When I'm not coding, I love to travel ✈️ and take photographs 📸.
 
 
 ## 🔭 About Personal Stuffs:
