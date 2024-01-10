@@ -44,7 +44,6 @@ I'm Corentin, an iOS Developer 👨‍💻 based in France. I recently graduated
 
 
 ## ⚡ Fun facts:
-![](https://komarev.com/ghpvc/?username=corentios&color=dc143c)
 * I have visited 7 different countries in 2 months
 * I'm a big fan of science fiction movies
 * Sometimes, I play kalimba
